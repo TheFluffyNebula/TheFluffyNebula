@@ -5,8 +5,7 @@ I'm Jason Yin, a student at North Carolina State University. I am interested in 
 Some things I'm working on right now include:
 * Students Leading Collaborative Computing Education
   * 501(c)(3) nonprofit aiming to make technology more accessible!
-* A ncroep project: 'marine renewable energy portfolio optimization'
-* A 'tinder for music' app
+* Competitive Programming
 
 My portfolio website: https://thefluffynebula.github.io/MyWebsite/
 
