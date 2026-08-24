@@ -6,8 +6,9 @@ Some things I'm working on right now include:
 * Students Leading Collaborative Computing Education
   * 501(c)(3) nonprofit aiming to make technology more accessible!
   * Tinkering w/ sensors
+  * Long-term: mini learning management system that would allow students and teachers to track their progress
 * Competitive Programming
-  * New topics
+  * New topics (ex. segment trees/lazy prop)
   * Older contests, ex. USACO Silver, CF (hoping to hit 1900!)
 * Other tinkering
   * Trying to stay up to date, ex. MCP
