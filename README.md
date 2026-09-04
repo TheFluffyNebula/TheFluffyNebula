@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm Jason Yin, a student at North Carolina State University. Some things I like to do in my free time are competitive programming, running, and reading. 
+I'm Jason Yin, a student at North Carolina State University. Some things I like to do in my free time are running and reading. 
 
 Some things I'm working on right now include:
 * Students Leading Collaborative Computing Education
