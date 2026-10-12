@@ -11,8 +11,6 @@ Some things I'm working on right now include:
   * New topics (ex. segment trees/lazy prop)
   * Older contests, ex. USACO Silver, CF (hoping to hit 1900!)
 * Other tinkering
-  * Trying to stay up to date, ex. MCP
-  * A collaborative platformer, similar to Pico Park and inspired by Manyland's (RIP) synergy map
 
 My portfolio website: https://thefluffynebula.github.io/MyWebsite/
 
